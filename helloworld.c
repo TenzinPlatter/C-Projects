@@ -9,11 +9,6 @@ int secondFunc(int a, int b){
   return sum;
 }
 
-/*
-void printCharList(char[] ls){
-
-}
-*/
 
 int main(){
   int a;
